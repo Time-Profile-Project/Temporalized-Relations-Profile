@@ -1,5 +1,5 @@
 # Temporalized Relations Profile
-The repository for the Temporalized Relations Profile Artifact, designed to align with Basic Formal Ontology, as specified in [ISO 21838-2:2020](https://basic-formal-ontology.org/bfo-2020.html).  
+The repository for the Temporalized Relations Profile artifacts, designed to align with Basic Formal Ontology, as specified in [ISO 21838-2:2020](https://basic-formal-ontology.org/bfo-2020.html).  
 
 The most current version is the one in the master branch. Any other versions may have errors, including branch 21838-2, which has the version ISO uploaded to their site.
 
