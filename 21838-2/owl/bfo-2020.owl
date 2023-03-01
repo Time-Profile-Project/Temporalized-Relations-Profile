@@ -582,7 +582,9 @@
   <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000141">
     <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
     <dc:identifier>028-BFO</dc:identifier>
-    
+    <skos:example xml:lang="en">As for fiat point, fiat line, fiat surface, site.</skos:example>
+    <skos:definition xml:lang="en">a is an immaterial entity =Def a is an independent continuant which is such that there is no time t when it has a material entity as continuant part at t</skos:definition>
+    <rdfs:label xml:lang="en">immaterial entity</rdfs:label>
     <skos:prefLabel xml:lang="en">immaterial entity</skos:prefLabel>
     <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
   </owl:Class>
